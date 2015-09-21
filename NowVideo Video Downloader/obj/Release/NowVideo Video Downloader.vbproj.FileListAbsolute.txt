@@ -1,0 +1,34 @@
+C:\Users\Leonardo\Desktop\Progetti VS\NowVideo Video Downloader\NowVideo Video Downloader\bin\Release\Nowvideo Video Downloader.exe.config
+C:\Users\Leonardo\Desktop\Progetti VS\NowVideo Video Downloader\NowVideo Video Downloader\bin\Release\Nowvideo Video Downloader.exe
+C:\Users\Leonardo\Desktop\Progetti VS\NowVideo Video Downloader\NowVideo Video Downloader\bin\Release\Nowvideo Video Downloader.pdb
+C:\Users\Leonardo\Desktop\Progetti VS\NowVideo Video Downloader\NowVideo Video Downloader\bin\Release\Nowvideo Video Downloader.xml
+C:\Users\Leonardo\Desktop\Progetti VS\NowVideo Video Downloader\NowVideo Video Downloader\obj\Release\Nowvideo_Video_Downloader.Form1.resources
+C:\Users\Leonardo\Desktop\Progetti VS\NowVideo Video Downloader\NowVideo Video Downloader\obj\Release\Nowvideo_Video_Downloader.Resources.resources
+C:\Users\Leonardo\Desktop\Progetti VS\NowVideo Video Downloader\NowVideo Video Downloader\obj\Release\NowVideo Video Downloader.vbproj.GenerateResource.Cache
+C:\Users\Leonardo\Desktop\Progetti VS\NowVideo Video Downloader\NowVideo Video Downloader\obj\Release\Nowvideo Video Downloader.exe
+C:\Users\Leonardo\Desktop\Progetti VS\NowVideo Video Downloader\NowVideo Video Downloader\obj\Release\Nowvideo Video Downloader.xml
+C:\Users\Leonardo\Desktop\Progetti VS\NowVideo Video Downloader\NowVideo Video Downloader\obj\Release\Nowvideo Video Downloader.pdb
+C:\Users\Leonardo\Desktop\NowVideo Video Downloader\NowVideo Video Downloader\bin\Release\Nowvideo Video Downloader.exe.config
+C:\Users\Leonardo\Desktop\NowVideo Video Downloader\NowVideo Video Downloader\obj\Release\Nowvideo Video Downloader.exe
+C:\Users\Leonardo\Desktop\NowVideo Video Downloader\NowVideo Video Downloader\obj\Release\Nowvideo Video Downloader.xml
+C:\Users\Leonardo\Desktop\NowVideo Video Downloader\NowVideo Video Downloader\obj\Release\Nowvideo Video Downloader.pdb
+C:\Users\Leonardo\Desktop\NowVideo Video Downloader\NowVideo Video Downloader\bin\Release\Nowvideo Video Downloader.exe
+C:\Users\Leonardo\Desktop\NowVideo Video Downloader\NowVideo Video Downloader\bin\Release\Nowvideo Video Downloader.pdb
+C:\Users\Leonardo\Desktop\NowVideo Video Downloader\NowVideo Video Downloader\bin\Release\Nowvideo Video Downloader.xml
+C:\Users\Leonardo\Desktop\NowVideo Video Downloader\NowVideo Video Downloader\obj\Release\Nowvideo_Video_Downloader.Form1.resources
+C:\Users\Leonardo\Desktop\NowVideo Video Downloader\NowVideo Video Downloader\obj\Release\Nowvideo_Video_Downloader.Resources.resources
+C:\Users\Leonardo\Desktop\NowVideo Video Downloader\NowVideo Video Downloader\obj\Release\NowVideo Video Downloader.vbproj.GenerateResource.Cache
+C:\Users\Leonardo\Desktop\NowVideo Video Downloader\NowVideo Video Downloader\obj\Release\Interop.IWshRuntimeLibrary.dll
+C:\Users\Leonardo\Desktop\NowVideo Video Downloader\NowVideo Video Downloader\obj\Release\NowVideo Video Downloader.vbproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\NowVideo Video Downloader\NowVideo Video Downloader\bin\Release\Nowvideo Video Downloader.exe.config
+C:\Users\Administrator\Desktop\NowVideo Video Downloader\NowVideo Video Downloader\obj\Release\Interop.IWshRuntimeLibrary.dll
+C:\Users\Administrator\Desktop\NowVideo Video Downloader\NowVideo Video Downloader\obj\Release\NowVideo Video Downloader.vbproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\NowVideo Video Downloader\NowVideo Video Downloader\obj\Release\Nowvideo Video Downloader.exe
+C:\Users\Administrator\Desktop\NowVideo Video Downloader\NowVideo Video Downloader\obj\Release\Nowvideo Video Downloader.xml
+C:\Users\Administrator\Desktop\NowVideo Video Downloader\NowVideo Video Downloader\obj\Release\Nowvideo Video Downloader.pdb
+C:\Users\Administrator\Desktop\NowVideo Video Downloader\NowVideo Video Downloader\bin\Release\Nowvideo Video Downloader.exe
+C:\Users\Administrator\Desktop\NowVideo Video Downloader\NowVideo Video Downloader\bin\Release\Nowvideo Video Downloader.pdb
+C:\Users\Administrator\Desktop\NowVideo Video Downloader\NowVideo Video Downloader\bin\Release\Nowvideo Video Downloader.xml
+C:\Users\Administrator\Desktop\NowVideo Video Downloader\NowVideo Video Downloader\obj\Release\Nowvideo_Video_Downloader.Form1.resources
+C:\Users\Administrator\Desktop\NowVideo Video Downloader\NowVideo Video Downloader\obj\Release\Nowvideo_Video_Downloader.Resources.resources
+C:\Users\Administrator\Desktop\NowVideo Video Downloader\NowVideo Video Downloader\obj\Release\NowVideo Video Downloader.vbproj.GenerateResource.Cache

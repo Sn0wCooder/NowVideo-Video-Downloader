@@ -1,0 +1,20 @@
+C:\Users\Leonardo\Desktop\NowVideo Video Downloader\NowVideo Video Downloader\bin\Debug\NowVideo Video Downloader.exe.config
+C:\Users\Leonardo\Desktop\NowVideo Video Downloader\NowVideo Video Downloader\bin\Debug\NowVideo Video Downloader.exe
+C:\Users\Leonardo\Desktop\NowVideo Video Downloader\NowVideo Video Downloader\bin\Debug\NowVideo Video Downloader.pdb
+C:\Users\Leonardo\Desktop\NowVideo Video Downloader\NowVideo Video Downloader\bin\Debug\NowVideo Video Downloader.xml
+C:\Users\Leonardo\Desktop\NowVideo Video Downloader\NowVideo Video Downloader\obj\Debug\NowVideo_Video_Downloader.Form1.resources
+C:\Users\Leonardo\Desktop\NowVideo Video Downloader\NowVideo Video Downloader\obj\Debug\NowVideo_Video_Downloader.Resources.resources
+C:\Users\Leonardo\Desktop\NowVideo Video Downloader\NowVideo Video Downloader\obj\Debug\NowVideo Video Downloader.vbproj.GenerateResource.Cache
+C:\Users\Leonardo\Desktop\NowVideo Video Downloader\NowVideo Video Downloader\obj\Debug\NowVideo Video Downloader.exe
+C:\Users\Leonardo\Desktop\NowVideo Video Downloader\NowVideo Video Downloader\obj\Debug\NowVideo Video Downloader.xml
+C:\Users\Leonardo\Desktop\NowVideo Video Downloader\NowVideo Video Downloader\obj\Debug\NowVideo Video Downloader.pdb
+C:\Users\Leonardo\Desktop\Progetti VS\NowVideo Video Downloader\NowVideo Video Downloader\bin\Debug\Nowvideo Video Downloader.exe.config
+C:\Users\Leonardo\Desktop\Progetti VS\NowVideo Video Downloader\NowVideo Video Downloader\obj\Debug\Nowvideo Video Downloader.exe
+C:\Users\Leonardo\Desktop\Progetti VS\NowVideo Video Downloader\NowVideo Video Downloader\obj\Debug\Nowvideo Video Downloader.xml
+C:\Users\Leonardo\Desktop\Progetti VS\NowVideo Video Downloader\NowVideo Video Downloader\obj\Debug\Nowvideo Video Downloader.pdb
+C:\Users\Leonardo\Desktop\Progetti VS\NowVideo Video Downloader\NowVideo Video Downloader\bin\Debug\Nowvideo Video Downloader.exe
+C:\Users\Leonardo\Desktop\Progetti VS\NowVideo Video Downloader\NowVideo Video Downloader\bin\Debug\Nowvideo Video Downloader.pdb
+C:\Users\Leonardo\Desktop\Progetti VS\NowVideo Video Downloader\NowVideo Video Downloader\bin\Debug\Nowvideo Video Downloader.xml
+C:\Users\Leonardo\Desktop\Progetti VS\NowVideo Video Downloader\NowVideo Video Downloader\obj\Debug\Nowvideo_Video_Downloader.Form1.resources
+C:\Users\Leonardo\Desktop\Progetti VS\NowVideo Video Downloader\NowVideo Video Downloader\obj\Debug\Nowvideo_Video_Downloader.Resources.resources
+C:\Users\Leonardo\Desktop\Progetti VS\NowVideo Video Downloader\NowVideo Video Downloader\obj\Debug\NowVideo Video Downloader.vbproj.GenerateResource.Cache
